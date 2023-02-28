@@ -1,6 +1,7 @@
 import AsyncHTTPClient
 import NIOHTTP1
 import NIOCore
+import NIOFoundationCompat
 import Foundation
 
 public struct DropboxUploader {
